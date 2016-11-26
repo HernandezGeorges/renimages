@@ -1,4 +1,4 @@
-## README of Renimages
+# Bulk Rename Photos
 
 ### Summary
 
